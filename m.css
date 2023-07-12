@@ -1,0 +1,35 @@
+#grad
+{
+border: 2px solid rgb(22, 22, 22);
+font-family: 'Times New Roman', Times, serif; }
+#hs ul li{
+display: inline-block;
+margin: 10px 20px;
+list-style: none;
+align-items: center;
+color: aliceblue;
+}
+#form
+{
+border: 2px solid black;
+height: 500px;
+width: 400px;
+
+border : 2px solid rgb(22, 22, 22) ;
+height: 500px;
+border-radius: 10px;
+box-shadow: -3px -3px 9px #aaa9a9a2;
+}
+#carouselExampleSlidesOnly{
+height: 700px;
+width: 700px;
+}
+#bg{
+background-color:rgb(7, 7, 7);
+height: 40px;
+width: 395px;
+}
+#bg h2{
+font-family: 'Times New Roman', Times, serif;
+color: white;
+}
